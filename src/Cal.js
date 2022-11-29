@@ -99,7 +99,6 @@ function Cal() {
       </div>
       <h4>Designed by Dhruv Bhavsar😎</h4>
     </div>
-    
     </>
   );
 }
